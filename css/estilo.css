@@ -1,0 +1,44 @@
+/* Aula inicial :D */
+body {
+    background: teal;
+    font-family: Arial;
+    background-size: 100vh;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  h1, h2 {
+    padding: 1em;
+  }
+  
+  .menu li {
+    list-style : none;
+  }
+  
+  a {
+   color: #F0F0F0;
+   text-decoration: none; 
+   padding: 1em;
+   border-radius: 10px;
+   margin: 0;
+  }
+  a:hover {
+   background-color: rgb(255,255,255,0.2);
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
+  
+  
+  
